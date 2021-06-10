@@ -1,0 +1,8 @@
+
+====================预测分析表====================
+Table	#		(		i		)		*		+		
+A	A->ε		null		null		A->ε		null		A->+TA		
+B	B->ε		null		null		B->ε		B->*FB		B->ε		
+T	null		T->FB		T->FB		null		null		null		
+E	null		E->TA		E->TA		null		null		null		
+F	null		F->(E)		F->i		null		null		null		
